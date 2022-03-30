@@ -1,3 +1,7 @@
+---
+title: Program
+---
+
 {% include navigation.html %}
 
 ---
