@@ -1,4 +1,4 @@
 - name: Home
   link: /
-- name: program
-  link: /program
+- name: Program
+  link: /program.md
