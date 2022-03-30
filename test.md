@@ -1,5 +1,3 @@
----
-title: test
----
+{% include navigation.html %}
 
 ## Test
