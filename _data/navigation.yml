@@ -1,4 +1,4 @@
-- name: Test
-  link: /test
+- name: Home
+  link: /
 - name: Program
   link: /program
