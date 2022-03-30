@@ -7,7 +7,11 @@ This doctoral school trains PhD and Master students by covering most aspects of 
 This Doctoral Training is organized by:
 
 Guillaume MORARD, ISTerre, CNRS, Université Grenoble Alpes, France
+
 Thomas BODIN, LGL-TPE, CNRS, Université Lyon-1, France
+
 Renaud DEGUEN, ISTerre, Université Grenoble Alpes, France
+
 Stéphanie DURAND, LGL-TPE, CNRS, Université Lyon-1, France
+
 Laurent HUSSON, ISTerre, CNRS, Université Grenoble Alpes, France
