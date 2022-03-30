@@ -2,3 +2,5 @@
 link: /
 - name: Test
 link: /test
+- name: Program
+link: /program
