@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Program
-  link: /program
+  link: /program.md
 - name: Registration
   link: /registration
