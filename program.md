@@ -2,7 +2,7 @@
 
 ---
 
-### Program
+## Program
 
 **Opening seminar** \| Heiner Igel
 
