@@ -14,7 +14,7 @@
 
 **Seismology** \| Nobuaki Fuji, Melanie Drillau
 
-**Geodynamics** \| Fanny Garel, ... 
+**Geodynamics** \| Fanny Garel, Hagay Amit
 
 **Gravimetry/Geodesy** \| Kristel Chanard, Severine Rosat
 
