@@ -6,5 +6,5 @@ This doctoral school trains PhD and Master students by covering most aspects of 
 
 
 
-![test](bandau_logos_2020.pdf)
+![test](/assets/images/bandeau_logos_2020.pdf)
 
