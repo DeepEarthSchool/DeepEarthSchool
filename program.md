@@ -4,17 +4,17 @@
 
 ### Program
 
-**Opening seminar**: Heiner Igel
+**Opening seminar** Heiner Igel
 
-**Geochemistry**: Célia Dalou, Paolo Sossi)
+**Geochemistry** Célia Dalou, Paolo Sossi)
 
-**Mineralogy**: Eglantine Boulard, Geeth Manthilake
+**Mineralogy** Eglantine Boulard, Geeth Manthilake
 
-**Planetology**: Valerie Malavergne, Hélène Massol
+**Planetology** Valerie Malavergne, Hélène Massol
 
-**Seismology**: Nobuaki Fuji, Melanie Drillau
+**Seismology** Nobuaki Fuji, Melanie Drillau
 
-**Geodynamics**: Fanny Garel, ... 
+**Geodynamics** Fanny Garel, ... 
 
 **Gravimetry/Geodesy** Kristel Chanard, Severine Rosat
 
