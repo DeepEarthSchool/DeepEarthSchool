@@ -1,8 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-github:
-  is_project_page: false
+logo: CartoonHolden28_500.jpg
 title: Deep Earth Doctoral School
 subtitle: October 24, 2022 - November 4, 2022
 
