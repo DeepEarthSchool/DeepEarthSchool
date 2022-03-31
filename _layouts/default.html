@@ -20,6 +20,9 @@
         {% if site.subtitle %}
           <h3>{{ site.subtitle  }}</h3>
         {% endif %}
+        {% if site.date %}
+          {{ site.date  }}
+        {% endif %}
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
