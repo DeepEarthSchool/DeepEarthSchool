@@ -4,7 +4,7 @@
 
 ### Program
 
-**Opening seminar** Heiner Igel
+**Opening seminar** | Heiner Igel
 
 **Geochemistry** Célia Dalou, Paolo Sossi)
 
