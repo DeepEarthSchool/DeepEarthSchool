@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
 title: Deep Earth Doctoral School
 subtitle: October 24, 2022 - November 4, 2022
-github:
-  is\_project\_page: false
+
