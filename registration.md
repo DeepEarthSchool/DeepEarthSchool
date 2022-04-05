@@ -4,7 +4,7 @@ ___
 
 ## Registration
 
-To register, please send an email to the organizers with a short motivation letter.
+To register, please send an email with a short motivation letter  to all members of the organizing committee, before June 17th.
 
 Guillaume MORARD \| [Guillaume.Morard@univ-grenoble-alpes.fr](Guillaume.Morard@univ-grenoble-alpes.fr)
 
