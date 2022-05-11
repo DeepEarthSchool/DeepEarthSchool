@@ -6,7 +6,7 @@
 
 **Opening seminar** \| Heiner Igel
 
-**Geochemistry** \| Célia Dalou, Paolo Sossi)
+**Geochemistry** \| Célia Dalou, Paolo Sossi
 
 **Mineralogy** \| Eglantine Boulard, Geeth Manthilake
 
