@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-logo: /assets/Affiche2.png
+logo: https://github.com/DeepEarthSchool/DeepEarthSchool.github.io/blob/gh-pages/docs/assets/images/Affiche2.png
 title: Deep Earth Doctoral School
 subtitle: Les Houches, France 
 date: Oct. 24, 2022 - Nov. 4, 2022
