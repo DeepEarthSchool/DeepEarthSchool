@@ -12,7 +12,7 @@
 
 **Planetology** \| Valerie Malavergne, Hélène Massol
 
-**Seismology** \| Nobuaki Fuji, Melanie Drillau
+**Seismology** \| Nobuaki Fuji, Simon Staehler
 
 **Geodynamics** \| Fanny Garel, Hagay Amit
 
