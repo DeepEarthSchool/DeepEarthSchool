@@ -21,3 +21,5 @@
 **Field excursion** \| Philippe Hervé Leloup
 
 > All lectures and seminars will be given in English.
+
+![test](/docs/assets/images/ENgBqCFiKwS0Ga90.png)
