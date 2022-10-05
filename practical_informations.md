@@ -6,15 +6,15 @@
 
 1. With respect to the program
 
-- there will be poster sessions in the evenings so please come with a printed poster. And also prepare one slide  introducing, in 3 minutes, not more, your topic and your poster.
+  - there will be poster sessions in the evenings so please come with a printed poster. And also prepare one slide  introducing, in 3 minutes, not more, your topic and your poster.
 
-- A field trip is organized on friday 28th all day so please bring shoes that you can hike with, and clothes for going outside including rain/snow clothes.
+  - A field trip is organized on friday 28th all day so please bring shoes that you can hike with, and clothes for going outside including rain/snow clothes.
 
 2.  Check the practical information available on the Physics School website to organize your travel:
 
-https://www.houches-school-physics.com/practical-information/
+  https://www.houches-school-physics.com/practical-information/
 
-Note that it is impossible to stay at the school on the week-end before (10/22-10/23) and after (11/05-11/06) the school but there are many housing options (hotel Airbnb) in the village Les Houches.
+  Note that it is impossible to stay at the school on the week-end before (10/22-10/23) and after (11/05-11/06) the school but there are many housing options (hotel Airbnb) in the village Les Houches.
 
 3. The school's fees will be between 500-700 euros.
 
