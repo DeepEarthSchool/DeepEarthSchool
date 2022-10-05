@@ -22,4 +22,4 @@
 
 > All lectures and seminars will be given in English.
 
-![test](/docs/assets/images/ENgBqCFiKwS0Ga90.png)
+![test](/docs/assets/images/planning_crop.pdf)
