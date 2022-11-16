@@ -7,7 +7,7 @@
 
 **Opening seminar** \| Heiner Igel
 
-[Paper writing](paperwriting_leshouches_igel.pdf)
+[Paper writing](/LecturesNotes/paperwriting_leshouches_igel.pdf)
 
 **Geochemistry** \| 
 
@@ -21,13 +21,13 @@ Eglantine Boulard: [Lecture 1](/LecturesNotes/houches22_Boulard_1_MineralPhysics
 
 Geeth Manthilake: [Lecture 1](/LecturesNotes/Grad_School_Les_Houches_2022_Manthilake_P1.pdf), [Lecture 2](/LecturesNotes/Grad_School_Les_Houches_2022_Manthilake_P2.pdf)
 
-**Planetology** \| Valerie Malavergne, Hélène Massol
+**Planetology** \| Hélène Massol, Guillaume Morard
 
 **Seismology** \| Nobuaki Fuji, Simon Staehler
 
 **Geodynamics** \| 
 
-Fanny Garel:  [Lecture 1](/LecturesNotes/F_Garel_DeepEarth22_LesHouches_1_mantle_dynamics.pdf), [Lecture 2](F_Garel_DeepEarth22_LesHouches_2_mantle_effective_rheology.pdf), [Lecture 3](F_Garel_DeepEarth22_LesHouches_3_dynamical_plates_and_slabs.pdf)
+Fanny Garel:  [Lecture 1](/LecturesNotes/F_Garel_DeepEarth22_LesHouches_1_mantle_dynamics.pdf), [Lecture 2](/LecturesNotes/F_Garel_DeepEarth22_LesHouches_2_mantle_effective_rheology.pdf), [Lecture 3](/LecturesNotes/F_Garel_DeepEarth22_LesHouches_3_dynamical_plates_and_slabs.pdf)
 
 Hagay Amit [Lectures pdf](/LecturesNotes/dynamo_LesHouches_2022.pdf)
 
