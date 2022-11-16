@@ -21,7 +21,11 @@ Eglantine Boulard: [Lecture 1](/LecturesNotes/houches22_Boulard_1_MineralPhysics
 
 Geeth Manthilake: [Lecture 1](/LecturesNotes/Grad_School_Les_Houches_2022_Manthilake_P1.pdf), [Lecture 2](/LecturesNotes/Grad_School_Les_Houches_2022_Manthilake_P2.pdf)
 
-**Planetology** \| Hélène Massol, Guillaume Morard
+**Planetology** \| 
+
+Hélène Massol: [Lecture 1](/LecturesNotes/Planetology.pdf)
+
+Guillaume Morard
 
 **Seismology** \| Nobuaki Fuji, Simon Staehler
 
