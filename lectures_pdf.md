@@ -5,6 +5,8 @@
 
 ## Lecture notes
 
+To download all lectures slides: https://filesender.renater.fr/?s=download&token=1c439e65-7627-4815-93c9-e1761a1c8cd8
+
 **Opening seminar** \| Heiner Igel
 
 [Paper writing](/LecturesNotes/paperwriting_leshouches_igel.pdf)
