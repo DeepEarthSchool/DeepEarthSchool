@@ -4,22 +4,22 @@
 
 ## Program
 
-**Opening seminar** \| Heiner Igel
+**Opening seminar** \| Anne Paul
 
-**Geochemistry** \| Célia Dalou, Paolo Sossi
+**Erosion** \| Pascal Lacroix
 
-**Mineralogy** \| Eglantine Boulard, Geeth Manthilake
+**Mineralogy and geochronology** \| Loraine Gourbet, Kerry Gallagher
 
-**Planetology** \| Valerie Malavergne, Hélène Massol
+**Planetology** \| Frédéric Schmidt, Valérie Ciarletti
 
-**Seismology** \| Nobuaki Fuji, Simon Staehler
+**Geodynamics** \| Adina Pusok
 
-**Geodynamics** \| Fanny Garel, Hagay Amit
+**Gravimetry/Geodesy** \| Cécile Doubre, Cédric Twarzic
 
-**Gravimetry/Geodesy** \| Kristel Chanard, Severine Rosat
+**Seismology** \| Paul Cupillard, Anne Paul
 
-**Field excursion** \| Philippe Hervé Leloup
+**Field excursion** \| Thierry Dumont
 
 > All lectures and seminars will be given in English.
 
-![test](/docs/assets/images/planning_crop.png)
+
