@@ -22,3 +22,5 @@ Link to [Séolane Barcelonnette]([https://seolane.org/](https://seolane.org/)).
 
 How to go to Barcelonnette? Click [here]([https://www.houches-school-physics.com/practical-information/access/](https://www.google.com/maps/place/P%C3%B4le+d'accueil+universitaire+S%C3%A9olane/@44.3899424,6.6401353,17z/data=!3m1!4b1!4m6!3m5!1s0x12cc91a30426d69f:0xc62b1b01e6b58d91!8m2!3d44.3899424!4d6.642324!16s%2Fg%2F11b6d61twk)) for directions.
 
+The easiest is to get to Barcelonnette is either to get to Gap and from there to take a bus or to get to Grenoble and take a bus from there.
+
