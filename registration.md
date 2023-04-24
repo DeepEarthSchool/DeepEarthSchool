@@ -4,7 +4,7 @@ ___
 
 ## Registration
 
-To register, please send an email with a short motivation letter  to all members of the organizing committee.
+To register, please send an email with a short motivation letter  to all members of the organizing committee before June 15th 2023.
 
 Anne REPLUMAZ \| [anne.replumaz@univ-grenoble-alpes.fr](anne.replumaz@univ-grenoble-alpes.fr)
 
