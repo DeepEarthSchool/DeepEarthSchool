@@ -14,6 +14,8 @@
 
 **Geodynamics** \| Adina Pusok
 
+**Geochemistry** \| Perach Nuriel
+
 **Gravimetry/Geodesy** \| Cécile Doubre, Cédric Twarzic
 
 **Seismology** \| Paul Cupillard, Anne Paul
