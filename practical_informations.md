@@ -10,7 +10,7 @@
 
   - A field trip is organized on friday 20th all day so please bring shoes that you can hike with, and clothes for going outside including rain/snow clothes.
 
--  Check the practical information available on the Physics School website to organize your travel:
+-  Check the practical information available on the university center website:
 
   https://seolane.org/
 
