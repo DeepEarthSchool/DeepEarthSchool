@@ -24,6 +24,6 @@
 
 > All lectures and seminars will be given in English.
 
-![test](/docs/assets/images/program.png)
-
 ![test](/docs/assets/images/program2.png)
+
+![test](/docs/assets/images/program.png)
