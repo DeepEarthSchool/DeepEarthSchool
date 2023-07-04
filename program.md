@@ -30,7 +30,7 @@ On the figure: CIFALPS2 profile in the north-western Alps (receiver function mig
 
 **Planetology** \| [Frédéric Schmidt](https://scholar.google.fr/citations?user=VpyZwlcAAAAJ&hl=fr), [Valérie Ciarletti](https://www.latmos.ipsl.fr/index.php/fr/43-pages-perso-officielles/3634-Valerie-Ciarletti-ici-latmos-ipsl-fr)
 <p align="center">
-<b> Planets, Moons and small bodies: What lies beneath the surface ? What  does it tell us?
+<b> Planets, Moons and small bodies: What lies beneath the surface ? What  does it tell us? Valérie Ciarletti
  </b>
 </p>
 
