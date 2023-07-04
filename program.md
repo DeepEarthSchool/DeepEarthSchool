@@ -5,6 +5,8 @@
 ## Program
 
 **Opening seminar** \| Anne Paul
+10 years of seismological imaging in the Alps: from seismograms to geological interpretation 
+![test](/docs/assets/images/APaul.png)
 
 **Erosion** \| Pascal Lacroix
 
