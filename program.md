@@ -21,7 +21,11 @@ Several temporary seismological experiments in the Alps (2012-2020) have provide
 On the figure: CIFALPS2 profile in the north-western Alps (receiver function migrated (middle) and S-wave velocity (bottom) cross-sections), superimposed on the reflectors of the ECORS-CROP deep seismic reflection profile (black line segments), with Bouguer anomaly on top
 
 
-**Erosion** \| [Pascal Lacroix](https://www.isterre.fr/annuaire/pages-web-du-personnel/pascal-lacroix/)
+**Landslide hazard/Erosion** \| [Pascal Lacroix](https://www.isterre.fr/annuaire/pages-web-du-personnel/pascal-lacroix/)
+
+<p align="center">
+<img src="/docs/assets/images/PLacroix.jpg" alt="  " width="500"/>
+</p>
 
 **Thermochronology** \| [Loraine Gourbet](https://lorainegourbet.wordpress.com/), [Kerry Gallagher](https://geosciences.univ-rennes.fr/interlocuteurs/kerry-gallagher)
 
