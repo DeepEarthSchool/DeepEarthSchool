@@ -4,9 +4,9 @@
 
 ## Program
 
-**Opening seminar** \| Anne Paul
+**Opening seminar** \| [Anne Paul](https://www.isterre.fr/annuaire/pages-web-du-personnel/anne-paul/)
 
-10 years of seismological imaging in the Alps: from seismograms to geological interpretation 
+**10 years of seismological imaging in the Alps: from seismograms to geological interpretation**
 
 Several temporary seismological experiments in the Alps (2012-2020) have provided a data set of unique spatial density and quality for a mountain range. They have advanced our knowledge of the lithospheric structure by combining different seismological imaging methods. The idea was to compare the various images to better understand their limits and better constrain interpretative geological models.
 
