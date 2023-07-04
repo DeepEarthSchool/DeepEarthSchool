@@ -3,7 +3,7 @@
 ---
 
 ## Program
-Here is a program for the two weeks. You will find below details about all for them and the topics that they will cover.
+Here is a program for the two weeks. You will find below details about all of them and the topics that they will cover.
 
 > All lectures and seminars will be given in English.
 
