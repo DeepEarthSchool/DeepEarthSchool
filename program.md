@@ -40,6 +40,7 @@ A number of questions are still looking for answers or clues, sounding radars an
 <p align="center">
 <img src="/docs/assets/images/VCiarletti.jpg" alt="  " width="500"/>
 </p>
+
 Layering of the North polar cap of Mars revealed by the sounding radar SHARAD. 
 Credit : NASA/JPL-Caltech/University of Rome/SwRI
 
