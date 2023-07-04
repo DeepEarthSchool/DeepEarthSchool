@@ -18,19 +18,19 @@ Several temporary seismological experiments in the Alps (2012-2020) have provide
 On the figure: CIFALPS2 profile in the north-western Alps (receiver function migrated (middle) and S-wave velocity (bottom) cross-sections), superimposed on the reflectors of the ECORS-CROP deep seismic reflection profile (black line segments), with Bouguer anomaly on top
 
 
-**Erosion** \| Pascal Lacroix
+**Erosion** \| [Pascal Lacroix](https://www.isterre.fr/annuaire/pages-web-du-personnel/pascal-lacroix/)
 
-**Mineralogy and geochronology** \| Loraine Gourbet, Kerry Gallagher
+**Mineralogy and geochronology** \| [Loraine Gourbet](https://lorainegourbet.wordpress.com/), [Kerry Gallagher](https://geosciences.univ-rennes.fr/interlocuteurs/kerry-gallagher)
 
-**Planetology** \| Frédéric Schmidt, Valérie Ciarletti
+**Planetology** \| [Frédéric Schmidt](https://scholar.google.fr/citations?user=VpyZwlcAAAAJ&hl=fr), [Valérie Ciarletti](https://www.latmos.ipsl.fr/index.php/fr/43-pages-perso-officielles/3634-Valerie-Ciarletti-ici-latmos-ipsl-fr)
 
-**Geodynamics** \| Adina Pusok
+**Geodynamics** \| [Adina Pusok](https://www.earth.ox.ac.uk/people/adina-pusok/)
 
-**Geochemistry** \| Perach Nuriel
+**Geochemistry** \| [Perach Nuriel](https://www.gov.il/en/departments/people/perach-worker-page)
 
-**Gravimetry/Geodesy** \| Cécile Doubre, Cedric Twardzik
+**Gravimetry/Geodesy** \| [Cécile Doubre](https://ites.unistra.fr/recherche/equipes/da/da-perso/cecile-doubre), [Cedric Twardzik](https://cedtw.bitbucket.io/)
 
-**Seismology** \| Paul Cupillard, Anne Paul
+**Seismology** \| [Paul Cupillard](https://georessources.univ-lorraine.fr/fr/content/cupillard), [Anne Paul](https://www.isterre.fr/annuaire/pages-web-du-personnel/anne-paul/)
 
 **Field excursion** \| Thierry Dumont
 
