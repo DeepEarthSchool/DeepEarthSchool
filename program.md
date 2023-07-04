@@ -28,7 +28,7 @@ On the figure: CIFALPS2 profile in the north-western Alps (receiver function mig
 
 **Geochemistry** \| Perach Nuriel
 
-**Gravimetry/Geodesy** \| Cécile Doubre, Cédric Twarzic
+**Gravimetry/Geodesy** \| Cécile Doubre, Cedric Twardzik
 
 **Seismology** \| Paul Cupillard, Anne Paul
 
