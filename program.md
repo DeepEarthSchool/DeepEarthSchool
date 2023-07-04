@@ -3,6 +3,13 @@
 ---
 
 ## Program
+Here is a program for the two weeks. You will find below details about all for them and the topics that they will cover.
+
+> All lectures and seminars will be given in English.
+
+![test](/docs/assets/images/program2.png)
+
+![test](/docs/assets/images/program.png)
 
 **Opening seminar** \| [Anne Paul](https://www.isterre.fr/annuaire/pages-web-du-personnel/anne-paul/)
 
@@ -34,8 +41,4 @@ On the figure: CIFALPS2 profile in the north-western Alps (receiver function mig
 
 **Field excursion** \| Thierry Dumont
 
-> All lectures and seminars will be given in English.
 
-![test](/docs/assets/images/program2.png)
-
-![test](/docs/assets/images/program.png)
