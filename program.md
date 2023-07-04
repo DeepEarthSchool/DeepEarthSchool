@@ -25,7 +25,7 @@ On the figure: CIFALPS2 profile in the north-western Alps (receiver function mig
 
 **Erosion** \| [Pascal Lacroix](https://www.isterre.fr/annuaire/pages-web-du-personnel/pascal-lacroix/)
 
-**Mineralogy and geochronology** \| [Loraine Gourbet](https://lorainegourbet.wordpress.com/), [Kerry Gallagher](https://geosciences.univ-rennes.fr/interlocuteurs/kerry-gallagher)
+**Thermochronology** \| [Loraine Gourbet](https://lorainegourbet.wordpress.com/), [Kerry Gallagher](https://geosciences.univ-rennes.fr/interlocuteurs/kerry-gallagher)
 
 **Planetology** \| [Frédéric Schmidt](https://scholar.google.fr/citations?user=VpyZwlcAAAAJ&hl=fr), [Valérie Ciarletti](https://www.latmos.ipsl.fr/index.php/fr/43-pages-perso-officielles/3634-Valerie-Ciarletti-ici-latmos-ipsl-fr)
 
