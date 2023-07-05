@@ -50,6 +50,17 @@ Credit : NASA/JPL-Caltech/University of Rome/SwRI
 
 **Gravimetry/Geodesy** \| [Cécile Doubre](https://ites.unistra.fr/recherche/equipes/da/da-perso/cecile-doubre), [Cedric Twardzik](https://cedtw.bitbucket.io/)
 
+<p align="center">
+<b> Cédric Twardzik: 
+ </b>
+</p>
+
+How do we unlock the secrets of fault mechanics while we do not have direct access into the depths where the processes unfold? The answer relies on the use of indirect surface observations from which we can extract relevant information about how faults move under kilometers of rocks. Over the centuries, and as we have gathered more and more observations, we have discovered that faults undergo various stages of stress release and accumulation, in what is better known as the seismic cycle. In this series of lectures, we will guide you through each phase of this cycle - interseismic, preseismic, coseismic, and postseismic - and explain how we squeeze information from surface observations to gain valuable insights into the life of a fault.
+
+<p align="center">
+<img src="/docs/assets/images/CTwardzik.png" alt="  " width="500"/>
+</p>
+
 **Seismology** \| [Paul Cupillard](https://georessources.univ-lorraine.fr/fr/content/cupillard), [Anne Paul](https://www.isterre.fr/annuaire/pages-web-du-personnel/anne-paul/)
 
 <p align="center">
