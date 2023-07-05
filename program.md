@@ -48,7 +48,7 @@ Credit : NASA/JPL-Caltech/University of Rome/SwRI
 
 **Geochemistry** \| [Perach Nuriel](https://www.gov.il/en/departments/people/perach-worker-page)
 
-**Gravimetry/Geodesy** \| [Cécile Doubre](https://ites.unistra.fr/recherche/equipes/da/da-perso/cecile-doubre), [Cedric Twardzik](https://cedtw.bitbucket.io/)
+**Gravimetry/Geodesy** \| [Cécile Doubre](https://ites.unistra.fr/recherche/equipes/da/da-perso/cecile-doubre), [Cédric Twardzik](https://cedtw.bitbucket.io/)
 
 <p align="center">
 <b> Cédric Twardzik & Cécile Doubre: The seismic cycle from observations to models
