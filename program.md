@@ -51,7 +51,7 @@ Credit : NASA/JPL-Caltech/University of Rome/SwRI
 **Gravimetry/Geodesy** \| [Cécile Doubre](https://ites.unistra.fr/recherche/equipes/da/da-perso/cecile-doubre), [Cedric Twardzik](https://cedtw.bitbucket.io/)
 
 <p align="center">
-<b> Cédric Twardzik: 
+<b> Cédric Twardzik & Cécile Doubre: The seismic cycle from observations to models
  </b>
 </p>
 
