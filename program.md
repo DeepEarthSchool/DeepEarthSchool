@@ -60,7 +60,7 @@ Credit : NASA/JPL-Caltech/University of Rome/SwRI
 We will see how Mathematics and Physics allow describing earthquakes in a quantitative way. Fundamental parameters such as moment tensor and magnitude will be introduced. The way these parameters act on seismic records will be studied as well. From there, various methods for characterizing earthquakes will be presented, including basic ones (based on first arrivals) and more advanced ones (based full waveforms).
 
 <p align="center">
-<img src="/docs/assets/images/PCupillard.jpg" alt="  " width="500"/>
+<img src="/docs/assets/images/PCupillard.png" alt="  " width="500"/>
 </p>
 
 **Field excursion** \| Thierry Dumont
