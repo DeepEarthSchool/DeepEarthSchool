@@ -52,6 +52,17 @@ Credit : NASA/JPL-Caltech/University of Rome/SwRI
 
 **Seismology** \| [Paul Cupillard](https://georessources.univ-lorraine.fr/fr/content/cupillard), [Anne Paul](https://www.isterre.fr/annuaire/pages-web-du-personnel/anne-paul/)
 
+<p align="center">
+<b> Paul Cupillard: Characterizing earthquakes from seismic data
+ </b>
+</p>
+
+We will see how Mathematics and Physics allow describing earthquakes in a quantitative way. Fundamental parameters such as moment tensor and magnitude will be introduced. The way these parameters act on seismic records will be studied as well. From there, various methods for characterizing earthquakes will be presented, including basic ones (based on first arrivals) and more advanced ones (based full waveforms).
+
+<p align="center">
+<img src="/docs/assets/images/PCupillard.jpg" alt="  " width="500"/>
+</p>
+
 **Field excursion** \| Thierry Dumont
 
 
