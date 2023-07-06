@@ -73,6 +73,7 @@ We will see how Mathematics and Physics allow describing earthquakes in a quanti
 <p align="center">
 <img src="/docs/assets/images/PCupillard.png" alt="  " width="500"/>
 </p>
+On the figure: Time-reversal of seismic waveforms in Europe (Masson et al, 2014)
 
 **Field excursion** \| Thierry Dumont
 
