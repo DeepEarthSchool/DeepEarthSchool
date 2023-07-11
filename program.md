@@ -46,6 +46,18 @@ Credit : NASA/JPL-Caltech/University of Rome/SwRI
 
 **Geodynamics** \| [Adina Pusok](https://www.earth.ox.ac.uk/people/adina-pusok/)
 
+<p align="center">
+<b>  Geodynamics: Mantle convection, Plates, Plumes and Melts
+ </b>
+</p>
+
+This course covers the current state of knowledge of mantle convection and plate tectonics. A broad background to the physics of mantle convection will be provided by explaining what it is, how it works, and how to quantify it in simple terms. The course then explores how mantle convection is linked to plate tectonics, and investigates how the different views of plate tectonics can be reconciled with the currently available data. The role of magmatism within the context of plate tectonics is also examined. Simple theoretical and numerical models in geodynamics will be highlighted throughout the course. 
+
+<p align="center">
+<img src="/docs/assets/images/APusok.png" alt="  " width="500"/>
+</p>
+Magma in the lithosphere-asthenosphere system (from Schmerr, 2012)
+
 **Geochemistry** \| [Perach Nuriel](https://www.gov.il/en/departments/people/perach-worker-page)
 
 **Gravimetry/Geodesy** \| [Cécile Doubre](https://ites.unistra.fr/recherche/equipes/da/da-perso/cecile-doubre), [Cédric Twardzik](https://cedtw.bitbucket.io/)
