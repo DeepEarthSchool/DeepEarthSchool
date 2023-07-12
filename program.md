@@ -87,6 +87,7 @@ We will see how Mathematics and Physics allow describing earthquakes in a quanti
 <p align="center">
 <img src="/docs/assets/images/PCupillard.png" alt="  " width="500"/>
 </p>
+
 On the figure: Time-reversal of seismic waveforms in Europe (Masson et al, 2014)
 
 
@@ -94,6 +95,7 @@ On the figure: Time-reversal of seismic waveforms in Europe (Masson et al, 2014)
 <p align="center">
 <img src="/docs/assets/images/ThierryDumont_photo.jpg" alt="  " width="500"/>
 </p>
+
 The city of Barcelonnette is located in a tectonic “window” showing the Dauphiné sedimentary cover (blue) overlain and surrounded by the “Helminthoid flysch nappes” (orange) issued from the Ligurian Tethys ocean. Their basal contact is visible around the Col de Restefond, where nappe stacking and burial was preceded by deformation of the deep foreland basin floor and gravity driven emplacement of large size blocks sourced from the Briançonnais and Provençal domains. This place gives the opportunity to observe an early stage of propagation of the Alpine orogen (late Eocene), before the activation of the “Penninic thrust” and the radial propagation of the western Alps arc.
 The trip will include one easy montain walk (max 5km way and return, ~250m climb) and spectacular panoramic views up to 2860m high. An alternative poor wheather option will be planned.
 
