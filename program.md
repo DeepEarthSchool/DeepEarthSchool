@@ -46,7 +46,7 @@ On the figure: CIFALPS2 profile in the north-western Alps (receiver function mig
 - on modelling the data in terms of thermal histories....
 
 <p align="center">
-<img src="/docs/assets/images/KGallagher.png" alt="  " width="500"/>
+<img src="/docs/assets/images/KGallagher.png" alt="  " width="250"/>
 </p>
 
 
