@@ -28,6 +28,28 @@ On the figure: CIFALPS2 profile in the north-western Alps (receiver function mig
 
 **Thermochronology** \| [Loraine Gourbet](https://lorainegourbet.wordpress.com/), [Kerry Gallagher](https://geosciences.univ-rennes.fr/interlocuteurs/kerry-gallagher)
 
+<p align="center">
+<b> Loraine Gourbet
+ </b>
+</p>
+
+- (U-Th)/He and 4He/3He thermochronometry with applications to the evolution of the Tibetan plateau
+- K-Ar and Ar-Ar dating of volcanic rocks (and their limits) with applications to the Réunion hotspot and the Comores archipelago.
+
+<p align="center">
+<b> Kerry Gallagher
+ </b>
+</p>
+
+- principles of geochronology+thermochronology as an introduction
+- fission track analysis 
+- on modelling the data in terms of thermal histories....
+
+<p align="center">
+<img src="/docs/assets/images/KGallagher.png" alt="  " width="500"/>
+</p>
+
+
 **Planetology** \| [Frédéric Schmidt](https://scholar.google.fr/citations?user=VpyZwlcAAAAJ&hl=fr), [Valérie Ciarletti](https://www.latmos.ipsl.fr/index.php/fr/43-pages-perso-officielles/3634-Valerie-Ciarletti-ici-latmos-ipsl-fr)
 <p align="center">
 <b> Valérie Ciarletti: Planets, Moons and small bodies: What lies beneath the surface ? What  does it tell us? 
