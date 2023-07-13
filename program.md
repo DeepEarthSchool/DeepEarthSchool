@@ -63,7 +63,7 @@ A number of questions are still looking for answers or clues, sounding radars an
 <img src="/docs/assets/images/VCiarletti.jpg" alt="  " width="500"/>
 </p>
 
-Layering of the North polar cap of Mars revealed by the sounding radar SHARAD. 
+On the figure: Layering of the North polar cap of Mars revealed by the sounding radar SHARAD. 
 Credit : NASA/JPL-Caltech/University of Rome/SwRI
 
 **Geodynamics** \| [Adina Pusok](https://www.earth.ox.ac.uk/people/adina-pusok/)
@@ -78,7 +78,7 @@ This course covers the current state of knowledge of mantle convection and plate
 <p align="center">
 <img src="/docs/assets/images/APusok.png" alt="  " width="500"/>
 </p>
-Magma in the lithosphere-asthenosphere system (from Schmerr, 2012)
+On the figure: Magma in the lithosphere-asthenosphere system (from Schmerr, 2012)
 
 
 
