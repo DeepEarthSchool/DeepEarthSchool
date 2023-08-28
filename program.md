@@ -80,10 +80,6 @@ This course covers the current state of knowledge of mantle convection and plate
 </p>
 On the figure: Magma in the lithosphere-asthenosphere system (from Schmerr, 2012)
 
-
-
-**Geochemistry** \| [Perach Nuriel](https://www.gov.il/en/departments/people/perach-worker-page)
-
 **Gravimetry/Geodesy** \| [Cécile Doubre](https://ites.unistra.fr/recherche/equipes/da/da-perso/cecile-doubre), [Cédric Twardzik](https://cedtw.bitbucket.io/)
 
 <p align="center">
