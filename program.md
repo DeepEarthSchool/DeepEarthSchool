@@ -93,7 +93,8 @@ How do we unlock the secrets of fault mechanics while we do not have direct acce
 <img src="/docs/assets/images/CTwardzik.png" alt="  " width="500"/>
 </p>
 
-**Seismology** \| [Paul Cupillard](https://georessources.univ-lorraine.fr/fr/content/cupillard), [Anne Paul](https://www.isterre.fr/annuaire/pages-web-du-personnel/anne-paul/)
+**Seismology** \| [Paul Cupillard](https://georessources.univ-lorraine.fr/fr/content/cupillard), [Anne Paul](https://www.isterre.fr/annuaire/pages-web-du-personnel/anne-paul/), 
+[Tolulope Olugboji](http://www.sas.rochester.edu/ees/urseismo/)
 
 <p align="center">
 <b> Paul Cupillard: Characterizing earthquakes from seismic data
@@ -107,6 +108,17 @@ We will see how Mathematics and Physics allow describing earthquakes in a quanti
 </p>
 
 On the figure: Time-reversal of seismic waveforms in Europe (Masson et al, 2014)
+
+<p align="center">
+<b> Tolulope Olugboji: Seeing into the Mantle by Sifting through Echoes, Reverbs and Noise
+ </b>
+</p>
+
+Our planet’s mantle is the largest rock-layer by volume. Within and across its three layers seismological evidence suggests new discontinuities requiring explanations that are still debated. In the upper and lower mantle (~150, 250, 1,000 km), spatially variable positive gradients are observed. Across the mantle transition zone (~330 and 700 km) negative velocity gradients are observed. To explain these observations melting anomalies and compositional heterogeneities have been proposed. To evaluate these, and other ideas, it is crucial to improve our threshold for detecting mantle discontinuities especially in noisy environments. Here, I address the limitations of current observational techniques especially in sparsely instrumented regions and above highly reverberant layers. I describe two new techniques: CRISP-RF (Clean Receiver function Imaging with Sparse Radon Filters) and FADER (Fast Automated Detection and Elimination of Echoes and Reverberations), both of which are applied to joint imaging using reflected and converted waves (e.g. SS precursors and receiver functions). When seismograms are few (short term deployments) or collected on a noisy sensor (e.g., ocean bottom sensor) the CRISP-RF is suitable for isolating hard-to-detect wave reflections and conversions buried in noise. When the sensor is above local reverberant structure (sediments, oceans, glaciers, sharp Moho) or the source signature of the reference seismogram masks the signals of interest (thin-layer reflections) then FADER is well suited for sifting through the echoes and reverberations.I demonstrate, using synthetics and observations, illustrations of each situation showing how we conduct a global survey of mantle discontinuities in challenging environments.
+
+<p align="center">
+<img src="/docs/assets/images/TOlugboji.png.png" alt="  " width="500"/>
+</p>
 
 
 **Field excursion** \| Thierry Dumont
