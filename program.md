@@ -7,11 +7,13 @@
 
 **Geochemistry** \|  [Ingrid Blanchard](IPGP), [Andreas Stracke]()
 
+**Mineralogy** \|  [Clemens Prescher ](), [???]()
 
+**Planetolgy** \|  [Doris Breuer](), [Caroline Dorn]()
 
+**Seismology** \| [Amir Khan](), [???]()
 
-**Seismology** \| [Paul Cupillard](https://georessources.univ-lorraine.fr/fr/content/cupillard), [Anne Paul](https://www.isterre.fr/annuaire/pages-web-du-personnel/anne-paul/), 
+**Mantle Dynamics** \|  [Juliane Dannberg](), [Maelis Arnould]()
 
-
-
+**Core Dynamics** \|  [Nicolas Giller](), [MJohannes Wicht]()
 
