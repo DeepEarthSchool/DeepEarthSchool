@@ -12,4 +12,4 @@ Stéphanie DURAND \| [stephanie.durand@ens-lyon.fr](stephanie.durand@ens-lyon.fr
 
 Carmen SANCHEZ-VALLE \| [sanchezm@uni-muenster.de](sanchezm@uni-muenster.de)
 
-Renaud DEGUEN MORARD \| [renaud.deguen@univ-grenoble-alpes.fr](renaud.deguen@univ-grenoble-alpes.fr)
+Renaud DEGUEN \| [renaud.deguen@univ-grenoble-alpes.fr](renaud.deguen@univ-grenoble-alpes.fr)
