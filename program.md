@@ -15,5 +15,5 @@
 
 **Mantle Dynamics** \|  [Juliane Dannberg](), [Maelis Arnould]()
 
-**Core Dynamics** \|  [Nicolas Giller](), [MJohannes Wicht]()
+**Core Dynamics** \|  [Nicolas Gillet](), [Johannes Wicht]()
 
