@@ -4,12 +4,12 @@ ___
 
 ## Registration
 
-To register, please send an email with a short motivation letter  to all members of the organizing committee before September 15th 2023.
+To register, please send an email with a short motivation letter  to all members of the organizing committee before July 31th 2024.
 
-Anne REPLUMAZ \| [anne.replumaz@univ-grenoble-alpes.fr](anne.replumaz@univ-grenoble-alpes.fr)
-
-Thomas BODIN \| [thomas.bodin@ens-lyon.fr](thomas.bodin@ens-lyon.fr)
-
-Laurent STEHLY \| [laurent.stehly@univ-grenoble-alpes.fr](laurent.stehly@univ-grenoble-alpes.fr)
+Guillaume MORARD \| [guillaume.morard@univ-grenoble-alpes.fr](guillaume.morard@univ-grenoble-alpes.fr)
 
 Stéphanie DURAND \| [stephanie.durand@ens-lyon.fr](stephanie.durand@ens-lyon.fr)
+
+Carmen SANCHEZ-VALLE \| [sanchezm@uni-muenster.de](sanchezm@uni-muenster.de)
+
+Renaud DEGUEN MORARD \| [renaud.deguen@univ-grenoble-alpes.fr](renaud.deguen@univ-grenoble-alpes.fr)
