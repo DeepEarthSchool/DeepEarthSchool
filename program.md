@@ -4,6 +4,7 @@
 
 ## Preliminary Program
 
+**Opening seminar** \| [Anne Davaille]
 
 **Geochemistry** \|  [Ingrid Blanchard](IPGP), [Andreas Stracke]()
 
