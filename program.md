@@ -8,7 +8,7 @@
 
 **Geochemistry** \|  [Ingrid Blanchard](IPGP), [Andreas Stracke](Institut fuer Mineralogie)
 
-**Mineralogy** \|  [Clemens Prescher ](Uni. of Freiburg), [Martha Pamato](Uni. of Padua)
+**Mineralogy** \|  [Clemens Prescher ](Uni. of Freiburg), [Marta Pamato](Uni. of Padua)
 
 **Planetolgy** \|  [Doris Breuer](DLR), [Caroline Dorn](ETH Zurich)
 
