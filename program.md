@@ -20,4 +20,4 @@
 
 **Field trip** \|  [TBC]()
 
-![test](/docs/assets/images/pg2024.png)
+![test](/docs/assets/images/pg2024.jpg)
