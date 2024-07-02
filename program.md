@@ -4,17 +4,19 @@
 
 ## Preliminary Program
 
-**Opening seminar** \| [Anne Davaille]()
+**Opening seminar** \| [TBC]()
 
-**Geochemistry** \|  [Ingrid Blanchard](IPGP), [Andreas Stracke]()
+**Geochemistry** \|  [Ingrid Blanchard](IPGP), [Andreas Stracke](Institut fuer Mineralogie)
 
-**Mineralogy** \|  [Clemens Prescher ](), [???]()
+**Mineralogy** \|  [Clemens Prescher ](Uni. of Freiburg), [Martha Pamato](Uni. of Padua)
 
-**Planetolgy** \|  [Doris Breuer](), [Caroline Dorn]()
+**Planetolgy** \|  [Doris Breuer](DLR), [Caroline Dorn](ETH Zurich)
 
-**Seismology** \| [Amir Khan](), [???]()
+**Seismology** \| [Amir Khan](ETH Zurich), [Arwen Deuss](Uni. of Utrecht)
 
-**Mantle Dynamics** \|  [Juliane Dannberg](), [Maelis Arnould]()
+**Mantle Dynamics** \|  [Juliane Dannberg](GEOMAR), [Maelis Arnould](LGL-TPE)
 
-**Core Dynamics** \|  [Nicolas Gillet](), [Johannes Wicht]()
+**Core Dynamics** \|  [Nicolas Gillet](ISTerre), [Johannes Wicht](Max-Planck Institut)
+
+**Field trip** \|  [TBC]()
 
