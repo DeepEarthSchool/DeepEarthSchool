@@ -4,7 +4,7 @@
 
 ## Preliminary Program
 
-**Opening seminar** \| [James Badro](IPGP)
+**Opening seminar** \| [Denis Andrault](LMV)
 
 **Geochemistry** \|  [Ingrid Blanchard](IPGP), [Andreas Stracke](Institut fuer Mineralogie)
 
