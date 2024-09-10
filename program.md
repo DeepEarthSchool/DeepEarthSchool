@@ -18,6 +18,5 @@
 
 **Core Dynamics** \|  [Nicolas Gillet](ISTerre), [Johannes Wicht](Max-Planck Institut)
 
-**Field trip** \|  [TBC]()
 
-![test](/docs/assets/images/planning.pdf)
+![](/docs/assets/images/planning.pdf)
