@@ -19,4 +19,4 @@
 **Core Dynamics** \|  [Nicolas Gillet](ISTerre), [Johannes Wicht](Max-Planck Institut)
 
 
-![](/docs/assets/images/planning.pdf)
+![](/docs/assets/images/planning.png)
