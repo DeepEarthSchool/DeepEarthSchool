@@ -20,3 +20,4 @@
 
 
 ![planning](/docs/assets/images/planning.png)
+
