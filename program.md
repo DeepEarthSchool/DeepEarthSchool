@@ -8,9 +8,9 @@
 
 **Geochemistry** \|  [Ingrid Blanchard](IPGP), [Andreas Stracke](Institut fuer Mineralogie)
 
-**Mineralogy** \|  [Clemens Prescher](Uni. of Freiburg), [Marta Pamato](Uni. of Padua)
+**Mineralogy** \|  [Carmen Sanchez], [Marta Pamato](Uni. of Padua)
 
-**Planetolgy** \|  [Doris Breuer](DLR), [Caroline Dorn](ETH Zurich)
+**Planetolgy** \|  [Doris Breuer](DLR), [Guillaume Morard]
 
 **Seismology** \| [Amir Khan](ETH Zurich), [Arwen Deuss](Uni. of Utrecht)
 
