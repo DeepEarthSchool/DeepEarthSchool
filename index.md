@@ -9,6 +9,6 @@ This doctoral school trains PhD and Master students by covering most aspects of 
 Registration deadline July 31th 2024.
 
 
-![test](/docs/assets/images/bandeau_logos_2020.png)
+![test](/docs/assets/images/logo.png)
 
 
